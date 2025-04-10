@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "67f7efefd8f8d11d014611dd"
+  },
+  "nombre": "Camiseta Negra",
+  "precio": 45000,
+  "stock": 25,
+  "categoría": "Ropa",
+  "disponible": true,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "detalles": {
+    "material": "Algodón",
+    "color": "Negro"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7f03dd8f8d11d014611df"
+  },
+  "nombre": "Zapatos Deportivos",
+  "precio": 95000,
+  "stock": 10,
+  "categoría": "Calzado",
+  "disponible": true,
+  "tallas": [
+    38,
+    39,
+    40,
+    41
+  ],
+  "detalles": {
+    "material": "Cuero sintético",
+    "color": "Blanco"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7f044d8f8d11d014611e1"
+  },
+  "nombre": "Gorra Negra",
+  "precio": 20000,
+  "stock": 40,
+  "categoría": "Accesorios",
+  "disponible": true,
+  "detalles": {
+    "material": "Poliéster",
+    "color": "Negro"
+  }
+}]
